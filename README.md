@@ -19,7 +19,7 @@ Contact: immanuel.anaborne@gmail.com | [anaborne.github.io](https://anaborne.git
 ## Market studies
 
 - Kalshi Prop Calibration: [github.com/anaborne/kalshi-prop-calibration](https://github.com/anaborne/kalshi-prop-calibration), NFL and NBA player props against free public data. The headline is a null; the finding is that the midpoint convention stops being a probability when one side of the book is absent, which happens on 16.0% of 102,860 scored observations.
-- NFL Pricing Model: [github.com/anaborne/nfl-pricing-model](https://github.com/anaborne/nfl-pricing-model), a walk-forward Elo over 272 games graded against the de-vigged closing moneyline; Brier 0.224 against the market's 0.212.
+- NFL Pricing Model: [github.com/anaborne/nfl-pricing-model](https://github.com/anaborne/nfl-pricing-model), a walk-forward Elo over 272 games graded against the de-vigged market moneyline; Brier 0.224 against the market's 0.212.
 - Cross-Venue: [github.com/anaborne/cross-venue](https://github.com/anaborne/cross-venue), whether Kalshi and Polymarket US game moneylines are the same contract; 0 of 74 matched pairs were settlement-identical, and the study stopped at its first gate.
 
 ## Tools
