@@ -29,5 +29,6 @@ Contact: immanuel.anaborne@gmail.com | [anaborne.github.io](https://anaborne.git
 
 ## Experience
 
+- Mercor and DataAnnotation, Software Engineer (Independent Contractor), June 2026 to present: reviewed more than 2,000 model-generated Python and JavaScript solutions for logic errors, time complexity and edge cases, and wrote more than 500 multi-turn prompts built to break models on dynamic programming, concurrency and data structures.
 - Wharton Accounting Department, Data Engineering Research Assistant, June 2025 to June 2026: built a RAG pipeline over the OpenAI API that cut manual disclosure-classification effort by 50 percent, and an async ingestion service that parsed more than 60,000 corporate filings.
 - GoodRun, Software Engineer Intern, May 2024 to August 2024: shipped an in-house React feedback tool that replaced a paid vendor, and cut production deployment failures 15% by hardening CI/CD in GitHub Actions.
