@@ -6,14 +6,13 @@ Education: University of Pennsylvania, B.A. Computer Science and English, Decemb
 
 Location: New York, NY
 
-Languages: Python, C++20, TypeScript, SQL
+Languages: Python, TypeScript, SQL
 
 Contact: immanuel.anaborne@gmail.com | [anaborne.github.io](https://anaborne.github.io) | [Resume (PDF)](https://anaborne.github.io/resume.pdf)
 
 ## Trading infrastructure
 
 - Prediction Market Infra: [github.com/anaborne/prediction-market-infra](https://github.com/anaborne/prediction-market-infra), a two-process Kalshi and Polymarket trading system where a poller decides what to trade and a pre-warmed executor submits it over a Unix domain socket; 395 offline tests.
-- Executor Hot Path in C++: [github.com/anaborne/executor-hotpath-cpp](https://github.com/anaborne/executor-hotpath-cpp), the same executor rewritten in C++20 and driven by the unmodified Python poller across 4,400 frames; wake_recv 2.8x lower at p50 under uvloop, an upper bound because the two configurations differ in process topology; 92 tests.
 - Settlement Reconciliation: [github.com/anaborne/settlement-reconciliation](https://github.com/anaborne/settlement-reconciliation), dbt models reconciling a 281-decision trade ledger against a 263-row Kalshi settlement feed at a 93.59% match rate; 82 data tests, and 15 of 15 controls proven to fail when their fault is injected.
 
 ## Market studies
