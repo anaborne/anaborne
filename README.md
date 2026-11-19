@@ -1,6 +1,6 @@
 # Immanuel Anaborne
 
-I build trading infrastructure for prediction markets and run pre-registered studies that test whether those markets are priced correctly. Every study below lost to the market or came back null.
+I find where a product or a process breaks for the people using it, and I measure it before anyone builds a fix. At Wharton that was doctoral students hand-matching 60,000+ corporate filings, and the pipeline I built cut the manual work 50%. On my own time I study prediction markets with public data; every study below lost to the market or came back null.
 
 Education: University of Pennsylvania, B.A. Computer Science and English, December 2026 conferral, available now.
 
